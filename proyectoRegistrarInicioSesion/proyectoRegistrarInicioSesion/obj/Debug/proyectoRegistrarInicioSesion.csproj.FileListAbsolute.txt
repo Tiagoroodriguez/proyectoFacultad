@@ -1,0 +1,12 @@
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\bin\Debug\proyectoRegistrarInicioSesion.exe.config
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\bin\Debug\proyectoRegistrarInicioSesion.exe
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\bin\Debug\proyectoRegistrarInicioSesion.pdb
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.csproj.AssemblyReference.cache
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.csproj.SuggestedBindingRedirects.cache
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.Properties.Resources.resources
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.csproj.GenerateResource.cache
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.csproj.CoreCompileInputs.cache
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.exe
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.pdb
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.frmLogin.resources
+D:\pav clase 2\proyectoRegistrarInicioSesion\proyectoRegistrarInicioSesion\obj\Debug\proyectoRegistrarInicioSesion.frmPrincipal.resources
