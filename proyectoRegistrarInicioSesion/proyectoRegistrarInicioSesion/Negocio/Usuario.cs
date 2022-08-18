@@ -1,6 +1,7 @@
 ﻿using proyectoRegistrarInicioSesion.Datos;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,6 +23,14 @@ namespace proyectoRegistrarInicioSesion.Negocio
             get { return password; }
             set { password = value; }
         }
+        // agregamos prop de todos las columnas de la BD
+        public int IdUsuaruaio { get; set; }
+        public string Email { get; set; }
+        public string Estado { get; set; }
+        public bool Borrado { get; set; }
+        public int IdPerfil { get; set; }
+        
+
         public Usuario()
         {
             nombre = password = string.Empty;
@@ -33,14 +42,35 @@ namespace proyectoRegistrarInicioSesion.Negocio
             this.password = password;
         }
         
-        public bool validar()
+        public int validar()
         {
-            string consultaSQL = "Select * from Usuarios where usuario='" + this.Nombre + "' AND password='" + this.Password+"'";
+            string consultaSQL = "SELECT * FROM Usuarios WHERE usuario='"
+                                + this.Nombre + "' AND password='" 
+                                + this.Password+"'";
             DBhelper oDB = new DBhelper();
-            if (oDB.consultarDB(consultaSQL).Rows.Count == 0)
-                return false;
+
+            // genera la data table
+            DataTable tabla = new DataTable();
+            tabla = oDB.consultarDB(consultaSQL);
+
+            // verifica la data table se genero sin datos
+            if (tabla.Rows.Count == 0)
+                // retorna 0 si la data table esta vacia
+                return 0;
             else
-                return true;
+                // retorna la id del usuario que esta en la primera columna de la BD
+                return (int)tabla.Rows[0][0];
         }
+
+        public DataTable RecuperarTodo()
+        {
+            DataTable tabla = new DataTable();
+            string consultaSQL = "SELECT * FROM Usuarios WHERE borrado=0";
+            DBhelper oDB = new DBhelper();
+            tabla = oDB.consultarDB(consultaSQL);
+
+            return tabla;
+        }
+
     }
 }

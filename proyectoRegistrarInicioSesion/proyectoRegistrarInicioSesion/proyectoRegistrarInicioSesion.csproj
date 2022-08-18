@@ -48,6 +48,12 @@
   <ItemGroup>
     <Compile Include="Datos\DBhelper.cs" />
     <Compile Include="Negocio\Usuario.cs" />
+    <Compile Include="Presentacion\frmConsultaBugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\frmConsultaBugs.designer.cs">
+      <DependentUpon>frmConsultaBugs.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentacion\frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentacion\frmConsultaBugs.resx">
+      <DependentUpon>frmConsultaBugs.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
@@ -90,6 +99,45 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Imagenes\actualizar.png" />
+    <Content Include="Imagenes\buscar1.png" />
+    <Content Include="Imagenes\buscar2.png" />
+    <Content Include="Imagenes\buscar3.png" />
+    <Content Include="Imagenes\cancelar1.png" />
+    <Content Include="Imagenes\cancelar2.png" />
+    <Content Include="Imagenes\Cancelar3.png" />
+    <Content Include="Imagenes\cancelar4.png" />
+    <Content Include="Imagenes\candado.png" />
+    <Content Include="Imagenes\configuration.png" />
+    <Content Include="Imagenes\delete_exit.png" />
+    <Content Include="Imagenes\documentediting.png" />
+    <Content Include="Imagenes\edit_file.png" />
+    <Content Include="Imagenes\Excel1.ico" />
+    <Content Include="Imagenes\excel3.ico" />
+    <Content Include="Imagenes\excel4.bmp" />
+    <Content Include="Imagenes\grabar1.png" />
+    <Content Include="Imagenes\grabar2.png" />
+    <Content Include="Imagenes\grabar3.png" />
+    <Content Include="Imagenes\grabar4.png" />
+    <Content Include="Imagenes\i-info.jpg" />
+    <Content Include="Imagenes\i-info2.jpg" />
+    <Content Include="Imagenes\logout_door.png" />
+    <Content Include="Imagenes\new-file.png" />
+    <Content Include="Imagenes\new_add_user.png" />
+    <Content Include="Imagenes\nuevo1.png" />
+    <Content Include="Imagenes\nuevo2.png" />
+    <Content Include="Imagenes\ok_accept.png" />
+    <Content Include="Imagenes\pregunta.jpg" />
+    <Content Include="Imagenes\preview1.png" />
+    <Content Include="Imagenes\preview2.png" />
+    <Content Include="Imagenes\print1.png" />
+    <Content Include="Imagenes\print2.png" />
+    <Content Include="Imagenes\print3.png" />
+    <Content Include="Imagenes\print4.png" />
+    <Content Include="Imagenes\puerta2.bmp" />
+    <Content Include="Imagenes\salir1.png" />
+    <Content Include="Imagenes\search-file.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -12,7 +12,7 @@ namespace proyectoRegistrarInicioSesion.Datos
     {
         SqlConnection conexion;
         SqlCommand comando;
-        string cadenaConexion = "Data Source=Maquis;Initial Catalog=BugTracker;User ID=avisuales1;password=Pav1#2020Maquis";
+        string cadenaConexion = "Data Source=maquis;Initial Catalog=BugTracker;User ID=avisuales1;password=Pav1#2020Maquis";
 
         public DataTable consultarDB(string consultaSQL)
         {

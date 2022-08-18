@@ -16,6 +16,10 @@ namespace proyectoRegistrarInicioSesion
         //private string usuario="admin";
         //private string clave="1234";
 
+        private Usuario oUsuario = new Usuario();
+        // hacemos una prop del obejto usuario (para poder usarlo en el frmPrincipal)
+        internal Usuario OUsuario { get { return oUsuario; } set { oUsuario = value; } }
+
         public frmLogin()
         {
             InitializeComponent();
@@ -36,17 +40,21 @@ namespace proyectoRegistrarInicioSesion
                 return;
             }
 
-            Usuario oUsuario = new Usuario();
+            
             oUsuario.Nombre = txtUsuario.Text;
             oUsuario.Password = txtPassword.Text;
 
             //if (this.validar(txtUsuario.Text,txtClave.Text))
-            if (oUsuario.validar())
+
+            oUsuario.IdUsuaruaio = oUsuario.validar();
+            if (oUsuario.IdUsuaruaio != 0)
             {
                 MessageBox.Show("Login OK",
                     "Ingreso al sistema",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information);
+                
+                this.Close();
             }
             else
             {
@@ -54,6 +62,9 @@ namespace proyectoRegistrarInicioSesion
                     "Validaciòn de datos",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error);
+                this.oUsuario.Nombre = "";
+                this.oUsuario.Password = "";
+
             }
 
         }
