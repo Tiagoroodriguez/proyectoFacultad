@@ -1,0 +1,77 @@
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\bin\Debug\AppBTS.exe.config
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\bin\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\bin\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\obj\Debug\AppBTS.csprojAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\obj\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\obj\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase2 AppBugs Login con BD\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\bin\Debug\AppBTS.exe.config
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\bin\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\bin\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.Presentacion.frmConsultaBugs.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase3 ProyectoBugs Menu+ConsultaBugs\AppBTS\obj\Debug\AppBTS.csprojAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\bin\Debug\AppBTS.exe.config
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\bin\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\bin\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.csprojAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.Presentacion.frmConsultaBugs.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase4 AppBTS ConsultaBugsConFiltros\AppBTS\obj\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\bin\Debug\AppBTS.exe.config
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\bin\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\bin\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.csprojAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.Presentacion.frmConsultaBugs.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.Presentacion.frmDetalleBug.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase5 AppBTS ConsultaDetalleBugConHistorico\AppBTS\obj\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\bin\Debug\AppBTS.exe.config
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\bin\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\bin\Debug\AppBTS.pdb
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.csprojAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.Presentacion.frmConsultaBugs.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.Presentacion.frmDetalleBug.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.Presentacion.frmUsuarios.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.exe
+D:\Oscar\UTN\PAVI\2021\Practico3k1\Clase6 AppBTS ABMC Usuarios\AppBTS\obj\Debug\AppBTS.pdb
+D:\AppBTS\bin\Debug\AppBTS.exe.config
+D:\AppBTS\bin\Debug\AppBTS.exe
+D:\AppBTS\bin\Debug\AppBTS.pdb
+D:\AppBTS\obj\Debug\AppBTS.csproj.AssemblyReference.cache
+D:\AppBTS\obj\Debug\AppBTS.csproj.SuggestedBindingRedirects.cache
+D:\AppBTS\obj\Debug\AppBTS.Presentacion.frmConsultaBugs.resources
+D:\AppBTS\obj\Debug\AppBTS.Presentacion.frmDetalleBug.resources
+D:\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
+D:\AppBTS\obj\Debug\AppBTS.Presentacion.frmUsuarios.resources
+D:\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\AppBTS\obj\Debug\AppBTS.exe
+D:\AppBTS\obj\Debug\AppBTS.pdb
